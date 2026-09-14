@@ -11,7 +11,7 @@ Gradients:
 Deze opdrachten heb ik al eerder gedaan, maar was het vergeten op mijn Readme te zetten.
 
 
-<img width="1197" height="662" alt="Scherm­afbeelding 2026-09-14 om 13 07 54" src="https://github.com/user-attachments/assets/ab2432c3-00c8-42af-9b0b-f7258707b33e" />
+<img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 13 07 54" src="https://github.com/user-attachments/assets/ab2432c3-00c8-42af-9b0b-f7258707b33e" />
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 13 07 43" src="https://github.com/user-attachments/assets/6ea4c69d-ac8d-4d95-be90-bedd141ad242" />
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 13 07 31" src="https://github.com/user-attachments/assets/bb0801ae-cf28-4199-9a4b-c81bb12a4229" />
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 11 13 46" src="https://github.com/user-attachments/assets/e02778ca-bf89-4cdf-b910-ab952f0aed20" />
