@@ -7,6 +7,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 10 & 11 september
 
+Gradients:
+Deze opdrachten heb ik al eerder gedaan, maar was het vergeten op mijn website te zetten.
+
+<img width="800 height="350" alt="Scherm­afbeelding 2026-09-14 om 13 07 54" src="https://github.com/user-attachments/assets/bb7608c7-4fff-47b6-9fdf-4968ad5f9c8a" />
+<img width="800" height="350" alt="Scherm­afbeelding 2026-09-14 om 13 07 43" src="https://github.com/user-attachments/assets/6ea4c69d-ac8d-4d95-be90-bedd141ad242" />
+<img width="800" height="350" alt="Scherm­afbeelding 2026-09-14 om 13 07 31" src="https://github.com/user-attachments/assets/bb0801ae-cf28-4199-9a4b-c81bb12a4229" />
+<img width="800" height="350" alt="Scherm­afbeelding 2026-09-14 om 11 13 46" src="https://github.com/user-attachments/assets/e02778ca-bf89-4cdf-b910-ab952f0aed20" />
+
+
 Voortgangsgesprek feedback:
 Feedback Julia
 Je bent goed aan het oriënteren en begrijpen. 
