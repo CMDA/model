@@ -11,7 +11,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - Een goeie grid toevoegen met de juiste css.
 - Ja, ik weet veel van de Webby aspecten op te noemen.
 
-Mijn website opzet in Figma:
+De basis van mijn website opzet in Figma:
 
 <img width="704" height="482" alt="Scherm­afbeelding 2026-09-14 om 19 07 30" src="https://github.com/user-attachments/assets/5b1e8b32-c710-46fc-80c2-3617de38ec2e" />
 
