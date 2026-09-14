@@ -5,6 +5,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 14 september
+
+<img width="400" height="300" alt="Scherm­afbeelding 2026-09-14 om 13 14 31" src="https://github.com/user-attachments/assets/c876e0b5-da11-44f6-88b5-4c4e02bb50db" />
+<img width="400" height="280" alt="Scherm­afbeelding 2026-09-14 om 13 14 39" src="https://github.com/user-attachments/assets/ed4714a5-3f45-4bb7-a0aa-d4e664c47f47" />
+
+
+
 ### 10 & 11 september
 
 Gradients:
