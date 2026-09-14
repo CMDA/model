@@ -13,6 +13,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 Mijn website opzet in Figma:
 
+<img width="704" height="482" alt="Scherm­afbeelding 2026-09-14 om 19 07 30" src="https://github.com/user-attachments/assets/5b1e8b32-c710-46fc-80c2-3617de38ec2e" />
+
+
 <img width="706" height="489" alt="Scherm­afbeelding 2026-09-14 om 18 51 02" src="https://github.com/user-attachments/assets/c899a0a9-2d8f-4644-897a-c46bc5ec4ce3" />
 
 
