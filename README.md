@@ -12,6 +12,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - Ja, ik weet veel van de Webby aspecten op te noemen.
 
 Mijn website opzet in Figma:
+
 <img width="706" height="489" alt="Scherm­afbeelding 2026-09-14 om 18 51 02" src="https://github.com/user-attachments/assets/c899a0a9-2d8f-4644-897a-c46bc5ec4ce3" />
 
 
