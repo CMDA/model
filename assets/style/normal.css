@@ -10,7 +10,9 @@ html {
   color-scheme: light dark;
   --color: light-dark(black, white);
   --background: light-dark(white, black);
-  
+  --header: light-dark(blue, purple);
+  --header-h1: light-dark(yellow, orange);
+  --header-label: light-dark(yellow, orange);
 }
 
 html:has([value="light"]:checked) {
