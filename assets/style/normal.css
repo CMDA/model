@@ -10,6 +10,7 @@ html {
   color-scheme: light dark;
   --color: light-dark(black, white);
   --background: light-dark(white, black);
+  
 }
 
 html:has([value="light"]:checked) {
@@ -28,19 +29,30 @@ body {
   color: var(--color);
 }
 
-  header {
-    position:sticky;
-    top:0;
-    z-index:100;
-    padding:.25em .75em;
+header {
+background: var( --header);
+}
 
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    flex-wrap:wrap;
+header h1 {
+color: var( --header-h1);
+}
 
-    -webkit-backdrop-filter:blur(2px) contrast(.4) grayscale(.7);
-    backdrop-filter: blur(2px) contrast(.4) grayscale(.7);
+header label:has(:checked) {
+background: var( --header-label);
+border-radius: 1em;
+}
+
+header {
+  position:sticky;
+  top:0;
+  z-index:100;
+  padding:.25em .75em;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  flex-wrap:wrap;
+  -webkit-backdrop-filter:blur(2px) contrast(.4) grayscale(.7);
+  backdrop-filter: blur(2px) contrast(.4) grayscale(.7);
   }
   
   header h1 {
