@@ -26,16 +26,16 @@ FDND les gevolgd van Justus:
 
 Deep Dive Grid:
 [Grid generator](https://cssgridgenerator.com)
-<img width="826" height="657" alt="Scherm­afbeelding 2026-09-11 om 16 09 06" src="https://github.com/user-attachments/assets/c300a161-e5ae-43bb-8003-5f4c88190e27" />
-<img width="965" height="649" alt="Scherm­afbeelding 2026-09-11 om 16 07 48" src="https://github.com/user-attachments/assets/a72bc236-23eb-4828-8331-bebba2db3e07" />
-<img width="353" height="269" alt="Scherm­afbeelding 2026-09-11 om 15 29 00" src="https://github.com/user-attachments/assets/b5d992a1-5231-466b-af9a-916daf4d9da8" />
-<img width="477" height="453" alt="Scherm­afbeelding 2026-09-11 om 15 14 39" src="https://github.com/user-attachments/assets/88a0f9a5-0c59-40f4-b8b2-545d810aebae" />
-<img width="516" height="749" alt="Scherm­afbeelding 2026-09-11 om 14 59 15" src="https://github.com/user-attachments/assets/ba138b19-2809-4086-a74f-25801f5cf406" />
-<img width="400" height="674" alt="Scherm­afbeelding 2026-09-11 om 14 41 34" src="https://github.com/user-attachments/assets/96840397-df33-435e-865b-28830dac6632" />
-<img width="821" height="674" alt="Scherm­afbeelding 2026-09-11 om 14 39 48" src="https://github.com/user-attachments/assets/85381e53-3219-495b-8be3-eab617a4b3f9" />
-<img width="734" height="678" alt="Scherm­afbeelding 2026-09-11 om 14 32 59" src="https://github.com/user-attachments/assets/a727735f-4094-4ace-9dfb-651309884bcb" />
-<img width="618" height="679" alt="Scherm­afbeelding 2026-09-11 om 14 29 41" src="https://github.com/user-attachments/assets/11e70610-acd5-465b-8dd1-30ae9f88e65b" />
-<img width="720" height="681" alt="Scherm­afbeelding 2026-09-11 om 14 27 13" src="https://github.com/user-attachments/assets/3e2bec75-9194-4691-ad5e-69e0a44faf28" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 16 09 06" src="https://github.com/user-attachments/assets/c300a161-e5ae-43bb-8003-5f4c88190e27" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 16 07 48" src="https://github.com/user-attachments/assets/a72bc236-23eb-4828-8331-bebba2db3e07" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 15 29 00" src="https://github.com/user-attachments/assets/b5d992a1-5231-466b-af9a-916daf4d9da8" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 15 14 39" src="https://github.com/user-attachments/assets/88a0f9a5-0c59-40f4-b8b2-545d810aebae" />
+<img width="400" height="400" alt="Scherm­afbeelding 2026-09-11 om 14 59 15" src="https://github.com/user-attachments/assets/ba138b19-2809-4086-a74f-25801f5cf406" />
+<img width="200" height="300" alt="Scherm­afbeelding 2026-09-11 om 14 41 34" src="https://github.com/user-attachments/assets/96840397-df33-435e-865b-28830dac6632" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 14 39 48" src="https://github.com/user-attachments/assets/85381e53-3219-495b-8be3-eab617a4b3f9" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 14 32 59" src="https://github.com/user-attachments/assets/a727735f-4094-4ace-9dfb-651309884bcb" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 14 29 41" src="https://github.com/user-attachments/assets/11e70610-acd5-465b-8dd1-30ae9f88e65b" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 14 27 13" src="https://github.com/user-attachments/assets/3e2bec75-9194-4691-ad5e-69e0a44faf28" />
 
 
 
