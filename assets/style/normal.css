@@ -23,6 +23,7 @@ html:has([value="dark"]:checked) {
   color-scheme: dark;
 }
 
+
 body {
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
@@ -54,9 +55,6 @@ header {
   justify-content:space-between;
   align-items:center;
   flex-wrap:wrap;
-
-  -webkit-backdrop-filter:blur(2px) contrast(.4) grayscale(.7);
-  backdrop-filter: blur(2px) contrast(.4) grayscale(.7);
   }
   
   header h1 {
