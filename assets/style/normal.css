@@ -10,7 +10,7 @@ html {
   color-scheme: light dark;
   --color: light-dark(black, white);
   --background: light-dark(white, black);
-  --header: light-dark(#D3ECA6, darkgreen);
+  --header: light-dark(#D3ECA6, #355E3B);
   --header-h1: light-dark(black, white);
   --header-label: light-dark(yellow, orange);
 }
