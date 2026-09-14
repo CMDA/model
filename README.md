@@ -29,6 +29,8 @@ FDND les gevolgd van Justus:
 Deep Dive Grid:
 [Grid generator](https://cssgridgenerator.com)
 
+Mijn oefeningen in Codepen:
+
 
 <img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 16 09 06" src="https://github.com/user-attachments/assets/c300a161-e5ae-43bb-8003-5f4c88190e27" />
 <img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 16 07 48" src="https://github.com/user-attachments/assets/a72bc236-23eb-4828-8331-bebba2db3e07" />
