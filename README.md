@@ -10,7 +10,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - Een website is lelijk als hij niet meer responsive is en onduidelijk is opgesteld.
 - Een goeie grid toevoegen met de juiste css.
 - Ja, ik weet veel van de Webby aspecten op te noemen.
-<img width="604" height="422" alt="Scherm­afbeelding 2026-09-14 om 15 01 32" src="https://github.com/user-attachments/assets/76d0c9fc-26ee-4c41-bf63-51540a449d53" /><img width="633" height="410" alt="Scherm­afbeelding 2026-09-14 om 14 58 21" src="https://github.com/user-attachments/assets/2ab94014-0d51-4673-8f13-86f565a263d4" />
+
+Mijn ideën voor een opzet in Figma:
+<img width="600" height="410" alt="Scherm­afbeelding 2026-09-14 om 15 01 32" src="https://github.com/user-attachments/assets/76d0c9fc-26ee-4c41-bf63-51540a449d53" /><img width="600" height="410" alt="Scherm­afbeelding 2026-09-14 om 14 58 21" src="https://github.com/user-attachments/assets/2ab94014-0d51-4673-8f13-86f565a263d4" />
 
 
 
