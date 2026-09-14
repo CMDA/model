@@ -10,8 +10,8 @@ html {
   color-scheme: light dark;
   --color: light-dark(black, white);
   --background: light-dark(white, black);
-  --header: light-dark(blue, purple);
-  --header-h1: light-dark(yellow, orange);
+  --header: light-dark(#D3ECA6, darkgreen);
+  --header-h1: light-dark(black, white);
   --header-label: light-dark(yellow, orange);
 }
 
