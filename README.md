@@ -24,8 +24,12 @@ FDND les gevolgd van Justus:
 - Een leuk idee voor mijn website is glitters toevoegen aan de achtergrond die harden en zachter schijnen.
 - Hoe maak je je website bekend? Je website posten op andere platformen.
 
+  
+
 Deep Dive Grid:
 [Grid generator](https://cssgridgenerator.com)
+
+
 <img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 16 09 06" src="https://github.com/user-attachments/assets/c300a161-e5ae-43bb-8003-5f4c88190e27" />
 <img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 16 07 48" src="https://github.com/user-attachments/assets/a72bc236-23eb-4828-8331-bebba2db3e07" />
 <img width="400" height="300" alt="Scherm­afbeelding 2026-09-11 om 15 29 00" src="https://github.com/user-attachments/assets/b5d992a1-5231-466b-af9a-916daf4d9da8" />
