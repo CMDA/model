@@ -12,7 +12,7 @@ html {
   --background: light-dark(white, black);
   --header: light-dark(#D3ECA6, #355E3B);
   --header-h1: light-dark(black, white);
-  --header-label: light-dark(yellow, orange);
+  --header-label: light-dark(#ACE1AF, #1B4D3E);
 }
 
 html:has([value="light"]:checked) {
