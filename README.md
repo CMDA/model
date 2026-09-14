@@ -8,7 +8,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 10 & 11 september
 
 Gradients:
-Deze opdrachten heb ik al eerder gedaan, maar was het vergeten op mijn website te zetten.
+Deze opdrachten heb ik al eerder gedaan, maar was het vergeten op mijn Readme te zetten.
 
 
 <img width="800" height="500" alt="Scherm­afbeelding 2026-09-14 om 13 07 43" src="https://github.com/user-attachments/assets/6ea4c69d-ac8d-4d95-be90-bedd141ad242" />
