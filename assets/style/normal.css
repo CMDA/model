@@ -13,6 +13,8 @@ html {
   --header: light-dark(#D3ECA6, #355E3B);
   --header-h1: light-dark(black, white);
   --header-label: light-dark(#A9BA9D, #1B4D3E);
+  --left-column: light-dark(#A9BA9D, #1B4D3E);
+  --right-column: light-dark(#fcd5ff, #80406c);
 }
 
 html:has([value="light"]:checked) {
@@ -38,7 +40,7 @@ main {
 }
 
 article:first-child > section:nth-of-type(1) {
-  background-color: var(--header);
+  background-color: var(--left-column);
   padding: 2.5em 2em;
   display: grid;
   flex-direction: column;
@@ -46,7 +48,7 @@ article:first-child > section:nth-of-type(1) {
 }
 
 article:first-child > section:nth-of-type(2) {
-  background-color: var(--header);
+  background-color: var(--right-column);
   padding: 2.5em 2em;
   display: grid;
   flex-direction: column;
