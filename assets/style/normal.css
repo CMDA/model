@@ -23,6 +23,9 @@ html:has([value="dark"]:checked) {
   color-scheme: dark;
 }
 
+main {
+  display:grid;
+}
 
 body {
   font-family: "Comic Relief", system-ui;
