@@ -23,18 +23,6 @@ html:has([value="dark"]:checked) {
   color-scheme: dark;
 }
 
-body {
-  height: 100vh;
-  margin: 0;
-  display: grid;
-  grid-template-columns: auto auto 1fr auto auto;
-  grid-template-areas:
-  "header"
-  "nav"
-  "main"
-  ;
-}
-
 main {
   display:grid;
    gap:1em;
