@@ -25,7 +25,18 @@ html:has([value="dark"]:checked) {
 
 main {
   display:grid;
+   gap:1em;
+  grid-template-columns: 1fr;
+
+  @media (width > 20em) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media (width > 48em) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 }
+
 
 body {
   font-family: "Comic Relief", system-ui;
