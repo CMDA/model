@@ -126,8 +126,3 @@ gap: .2em;
 align-items: baseline;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
