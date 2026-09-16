@@ -96,8 +96,3 @@ label:has(input[type="checkbox"]) {
   gap: .2em;
   align-items: baseline;
 }
-
-fieldset {
-  border-radius: var( --step-1 );
-  color: orange;
-}
