@@ -37,7 +37,7 @@ main {
   }
 }
 
-article:first-child > section:nth-oftype(1) {
+article:first-child > section:nth-of-type(1) {
   background-color: var(--header);
   padding: 2.5em 2em;
   display: flex;
@@ -45,7 +45,7 @@ article:first-child > section:nth-oftype(1) {
   justify-content: left;
 }
 
-article:first-child > section:nth-oftype(2) {
+article:first-child > section:nth-of-type(2) {
   background-color: var(--header);
   padding: 2.5em 2em;
   display: flex;
@@ -126,8 +126,3 @@ gap: .2em;
 align-items: baseline;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  display: block
-}
