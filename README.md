@@ -9,6 +9,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 checkout:
 
 - 3 gestalt principes
+  
 -contrast: Je kan met contrast laten zien dat elementen verschillend zijn. Ook kan je met contrast text leesbaarder maken. 
 - balans: Er is een eerlijke verdeling in visuele signalen.
 - hierarchy: Het belangrijkste is en grootste weergegeven. Het is het eerste waar je naar zou moeten kijken als je op de website komt.
