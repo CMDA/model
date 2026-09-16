@@ -8,9 +8,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 16 september
 Mijn website nu:
 
-<img width="800" height="500" alt="Scherm­afbeelding 2026-09-16 om 14 16 38" src="https://github.com/user-attachments/assets/fc4f480b-ba03-4831-876c-e8f41bde6500" />
-<img width="800" height="500" alt="Scherm­afbeelding 2026-09-16 om 14 16 59" src="https://github.com/user-attachments/assets/d2a781de-7073-46c6-9c39-7daf1b8a7496" />
-<img width="800" height="500" alt="Scherm­afbeelding 2026-09-16 om 14 16 43" src="https://github.com/user-attachments/assets/a6395941-d747-4a56-89cb-63ea46c8dcd3" />
+<img width="700" height="480" alt="Scherm­afbeelding 2026-09-16 om 14 16 38" src="https://github.com/user-attachments/assets/fc4f480b-ba03-4831-876c-e8f41bde6500" />
+<img width="700" height="480" alt="Scherm­afbeelding 2026-09-16 om 14 16 59" src="https://github.com/user-attachments/assets/d2a781de-7073-46c6-9c39-7daf1b8a7496" />
+<img width="700" height="480" alt="Scherm­afbeelding 2026-09-16 om 14 16 43" src="https://github.com/user-attachments/assets/a6395941-d747-4a56-89cb-63ea46c8dcd3" />
 
 
 checkout:
