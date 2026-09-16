@@ -13,9 +13,9 @@ checkout:
 - balans: Er is een eerlijke verdeling in visuele signalen.
 - hierarchy: Het belangrijkste is en grootste weergegeven. Het is het eerste waar je naar zou moeten kijken als je op de website komt.
 
-- Een grid bied meer mogelijkheden voor een opzet van je lay-out. Een grid is eigenlijk een column die altijd in en bepaalde volgorde staat.
+Een grid bied meer mogelijkheden voor een opzet van je lay-out. Een grid is eigenlijk een column die altijd in en bepaalde volgorde staat.
 
-- Ik neem het principe Hierarchy mee als een iteratie in mijn ontwerp, omdat het belangrijk is voor de duidelijkheid van mijn pagina. 
+Ik neem het principe Hierarchy mee als een iteratie in mijn ontwerp, omdat het belangrijk is voor de duidelijkheid van mijn pagina. 
   
 ### 14 september
 checkout:
