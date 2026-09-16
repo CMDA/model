@@ -55,6 +55,7 @@ header {
   justify-content:space-between;
   align-items:center;
   flex-wrap:wrap;
+  max-width: 75em;
   }
   
   header h1 {
