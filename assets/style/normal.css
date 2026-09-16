@@ -37,6 +37,13 @@ main {
   }
 }
 
+article:first-child > section:nth-oftype(1) {
+  background-color: var(--header);
+  padding: 2.5em 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
 
 body {
   font-family: "Comic Relief", system-ui;
