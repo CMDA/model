@@ -1,7 +1,7 @@
 /* HIER KOMT JOUW CSS */
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
+  font-family: "CormorantGaramond-Light";
+  src: url(assets/type/CormorantGaramond-Light.ttf);
   font-weight: 400;
   font-style: normal;
 }
@@ -12,9 +12,11 @@ html {
   --background: light-dark(white, black);
   --header: light-dark(#D3ECA6, #355E3B);
   --header-h1: light-dark(black, white);
-  --header-label: light-dark(#A9BA9D, #1B4D3E);
-  --left-column: light-dark(#A9BA9D, #1B4D3E);
-  --right-column: light-dark(#fcd5ff, #80406c);
+  --header-label: light-dark(#b6ce88, #2b4f31);
+  --left-column: light-dark(#D3ECA6, #355E3B);
+  --right-column: light-dark(#fcd5ff, #b884a7);
+  --main-button: light-dark(#e26d67, #c55751);
+  --webright: light-dark(#D3ECA6, #355E3B);
 }
 
 html:has([value="light"]:checked) {
@@ -27,32 +29,37 @@ html:has([value="dark"]:checked) {
 
 main {
   display:grid;
-   gap:1em;
-  grid-template-columns: 1fr;
-
-  @media (width > 20em) {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  @media (width > 48em) {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
+  grid-template-columns: 6fr 1fr 1fr 15fr;
 }
 
-article:first-child > section:nth-of-type(1) {
+main p {
+  font-size: 0.80em;
+}
+
+article:first-child {
   background-color: var(--left-column);
-  padding: 2.5em 2em;
+  padding: 1em 2em;
   display: grid;
   flex-direction: column;
   justify-content: left;
+  grid-column: 1 / 2;
+  grid-row: 4;
 }
 
-article:first-child > section:nth-of-type(2) {
+main>button {
+  background-color: var(--main-button);
+  grid-column: 2 / 4;
+  grid-row: 4;
+}
+
+article:nth-of-type(2) {
   background-color: var(--right-column);
   padding: 2.5em 2em;
   display: grid;
   flex-direction: column;
   justify-content: right;
+  grid-column: 4 / 5;
+  grid-row: 4;
 }
 
 body {
@@ -108,7 +115,7 @@ header label {
   padding:.5em;
   display:flex;
   place-items:center;
-  gap:.25em; 
+  gap:.5em; 
   cursor:pointer;
   }
   
@@ -128,3 +135,6 @@ gap: .2em;
 align-items: baseline;
 }
 
+footer {
+  background: var(--webright);
+}
