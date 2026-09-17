@@ -57,9 +57,9 @@ main>button {
   background-color: var(--main-button);
   grid-column: 2 / 4;
   grid-row: 1 / 4;
-  width: 100px;
-  height: 100px;
-  border-radius: 5em;
+  width: 120px;
+  height: 120px;
+  border-radius: 6em;
   position: relative;
   justify-self: center;
   align-self: center;
