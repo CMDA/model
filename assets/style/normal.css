@@ -27,6 +27,13 @@ html:has([value="dark"]:checked) {
   color-scheme: dark;
 }
 
+body {
+  font-family: "ComorantGarmond-Light", system-ui;
+  color: CanvasText;
+  background: var(--background);
+  color: var(--color);
+  min-height: 100vh;
+}
 main {
   display:grid;
   grid-template-columns: 6fr 1fr 1fr 15fr;
@@ -40,7 +47,7 @@ main p {
 
 article:first-child {
   background-color: var(--left-column);
-  padding: 1em 4em 1em 2em;
+  padding: 1em 7em 1em 2em;
   display: grid;
   flex-direction: column;
   justify-content: left;
@@ -57,9 +64,9 @@ main>button {
   background-color: var(--main-button);
   grid-column: 2 / 4;
   grid-row: 1 / 4;
-  width: 120px;
-  height: 120px;
-  border-radius: 6em;
+  width: 200px;
+  height: 200px;
+  border-radius: 9em;
   position: relative;
   justify-self: center;
   align-self: center;
@@ -75,14 +82,7 @@ article:nth-of-type(2) {
   grid-row: 1/ 4;
 }
 
-body {
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
-  background: var(--background);
-  color: var(--color);
-  height: 100%;
-}
+
 
 header {
 background: var( --header);
